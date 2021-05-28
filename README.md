@@ -1,3 +1,4 @@
 # pantograph
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wTjwe_mryI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![creating](https://img.youtube.com/vi/wTjwe_mryI0/0.jpg)](https://www.youtube.com/watch?v=wTjwe_mryI0)
